@@ -1,0 +1,6 @@
+C:\Users\GUNBAT\Desktop\LastPro\Api\NewsDB\bin\Debug\NewsDB.dacpac
+C:\Users\GUNBAT\Desktop\LastPro\Api\NewsDB\bin\Debug\NewsDB.dll
+C:\Users\GUNBAT\Desktop\LastPro\Api\NewsDB\bin\Debug\NewsDB.pdb
+C:\Users\GUNBAT\Desktop\LastPro\Api\NewsDB\obj\Debug\NewsDB.sqlprojAssemblyReference.cache
+C:\Users\GUNBAT\Desktop\LastPro\Api\NewsDB\obj\Debug\NewsDB.dll
+C:\Users\GUNBAT\Desktop\LastPro\Api\NewsDB\obj\Debug\NewsDB.pdb

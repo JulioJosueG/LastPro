@@ -1,0 +1,86 @@
+10/8/2021 9:48:33 a. m.	This log contains information about the import schema operation into project 'NewsDBProject' on computer 'LAPTOP-151NMHQA' by user 'GUNBAT'.
+10/8/2021 9:48:33 a. m.	Import of database schema has started.
+10/8/2021 9:48:38 a. m.	Gathering database credentials
+10/8/2021 9:48:38 a. m.	Gathering database options
+10/8/2021 9:48:38 a. m.	Gathering generic database scoped configuration option
+10/8/2021 9:48:38 a. m.	Gathering users
+10/8/2021 9:48:38 a. m.	Gathering roles
+10/8/2021 9:48:38 a. m.	Gathering application roles
+10/8/2021 9:48:38 a. m.	Gathering role memberships
+10/8/2021 9:48:38 a. m.	Gathering filegroups
+10/8/2021 9:48:38 a. m.	Gathering full-text catalogs
+10/8/2021 9:48:38 a. m.	Gathering assemblies
+10/8/2021 9:48:38 a. m.	Gathering certificates
+10/8/2021 9:48:38 a. m.	Gathering asymmetric keys
+10/8/2021 9:48:38 a. m.	Gathering symmetric keys
+10/8/2021 9:48:38 a. m.	Gathering encrypted symmetric keys
+10/8/2021 9:48:38 a. m.	Gathering schemas
+10/8/2021 9:48:38 a. m.	Gathering XML schema collections
+10/8/2021 9:48:38 a. m.	Gathering user-defined data types
+10/8/2021 9:48:38 a. m.	Gathering user-defined types
+10/8/2021 9:48:38 a. m.	Gathering table types
+10/8/2021 9:48:38 a. m.	Gathering unique keys for table types
+10/8/2021 9:48:38 a. m.	Gathering primary keys for table types
+10/8/2021 9:48:38 a. m.	Gathering indexes for table types
+10/8/2021 9:48:38 a. m.	Gathering check constraints for table types
+10/8/2021 9:48:38 a. m.	Gathering default constraints for table types
+10/8/2021 9:48:38 a. m.	Gathering partition functions
+10/8/2021 9:48:38 a. m.	Gathering partition schemes
+10/8/2021 9:48:38 a. m.	Gathering functions
+10/8/2021 9:48:38 a. m.	Gathering encrypted functions
+10/8/2021 9:48:38 a. m.	Gathering aggregates
+10/8/2021 9:48:38 a. m.	Gathering procedures
+10/8/2021 9:48:38 a. m.	Gathering encrypted procedures
+10/8/2021 9:48:38 a. m.	Gathering tables
+10/8/2021 9:48:38 a. m.	Gathering primary keys
+10/8/2021 9:48:38 a. m.	Gathering unique constraints
+10/8/2021 9:48:38 a. m.	Gathering foreign keys
+10/8/2021 9:48:38 a. m.	Gathering default constraints
+10/8/2021 9:48:38 a. m.	Gathering check constraints
+10/8/2021 9:48:38 a. m.	Gathering views
+10/8/2021 9:48:38 a. m.	Gathering encrypted views
+10/8/2021 9:48:38 a. m.	Gathering indexes
+10/8/2021 9:48:38 a. m.	Gathering statistics
+10/8/2021 9:48:38 a. m.	Gathering full-text index stoplists
+10/8/2021 9:48:38 a. m.	Gathering search property lists
+10/8/2021 9:48:38 a. m.	Gathering search properties
+10/8/2021 9:48:38 a. m.	Gathering full-text indexes
+10/8/2021 9:48:38 a. m.	Gathering column store indexes
+10/8/2021 9:48:38 a. m.	Gathering spatial indexes
+10/8/2021 9:48:38 a. m.	Gathering XML indexes
+10/8/2021 9:48:38 a. m.	Gathering Selective XML indexes
+10/8/2021 9:48:38 a. m.	Gathering encrypted triggers
+10/8/2021 9:48:38 a. m.	Gathering triggers
+10/8/2021 9:48:38 a. m.	Gathering encrypted and clr ddl triggers
+10/8/2021 9:48:38 a. m.	Gathering ddl triggers
+10/8/2021 9:48:38 a. m.	Creating edge constraints
+10/8/2021 9:48:38 a. m.	Gathering synonyms
+10/8/2021 9:48:38 a. m.	Gathering defaults
+10/8/2021 9:48:38 a. m.	Gathering data constraint uddt bindings
+10/8/2021 9:48:38 a. m.	Gathering rules
+10/8/2021 9:48:38 a. m.	Gathering data constraint uddt bindings
+10/8/2021 9:48:38 a. m.	Gathering message types
+10/8/2021 9:48:38 a. m.	Gathering queues
+10/8/2021 9:48:38 a. m.	Gathering contracts
+10/8/2021 9:48:38 a. m.	Gathering services
+10/8/2021 9:48:38 a. m.	Gathering event notifications
+10/8/2021 9:48:38 a. m.	Gathering remote service bindings
+10/8/2021 9:48:38 a. m.	Gathering broker priorities
+10/8/2021 9:48:38 a. m.	Gathering signatures
+10/8/2021 9:48:38 a. m.	Gathering data compression options
+10/8/2021 9:48:38 a. m.	Gathering sequence types
+10/8/2021 9:48:38 a. m.	Gathering security policies
+10/8/2021 9:48:38 a. m.	Gather column encryption keys
+10/8/2021 9:48:38 a. m.	Gathering column master keys
+10/8/2021 9:48:38 a. m.	Gathering external data sources
+10/8/2021 9:48:38 a. m.	Gathering external file formats
+10/8/2021 9:48:38 a. m.	Gathering external tables
+10/8/2021 9:48:38 a. m.	Gathering extended properties
+10/8/2021 9:48:38 a. m.	Gathering credentials
+10/8/2021 9:48:38 a. m.	Gathering logins
+10/8/2021 9:48:38 a. m.	Gathering server audits
+10/8/2021 9:48:39 a. m.	Scanning project for duplicate elements
+10/8/2021 9:48:39 a. m.	Finished duplicate element processing
+10/8/2021 9:48:54 a. m.	Finished importing database.
+10/8/2021 9:48:54 a. m.	A summary of the import was saved to the following location: C:\Users\GUNBAT\Desktop\LastPro\Api\NewsDBProject\Import Schema Logs\NewsDBProject_20210810014833.log
+10/8/2021 9:48:54 a. m.	Click Finish to continue...
